@@ -7,20 +7,18 @@ description: ""
 <ul class="article-list">
   {% for post in paginator.posts %}
     <li class="card article-list-item {% if site.scrollappear_enabled %}scrollappear{% endif %}">
-      <div class="card-body">
+      <div class="card-header">
+        <h5>{{ post.tag }}</h5>
+      </div>
+      {% if post.thumb_image %}
+          {% include card-image.html path=post.thumb_image path-detail=post.thumb_image alt="HERE'S TO LIFE" %}
+        {% endif %}
+      <div class="card-body"> 
         <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
           <h5 class="card-title">{{ post.title }}</h5>
         </a>
-        <!-- <h6 class="card-subtitle mb-2 text-muted">Test</h6> -->
-        <p class="card-text">
-          {% if post.description %}
-            {{ post.description }}  
-          {% else %}
-            {{ post.excerpt }}
-          {% endif %}
-        </p>
         {% include article/info-footer.html post=post %}
-      </div>
+    </div>
     </li>
   {% endfor %}
   {% if paginator.total_pages > 1 %}
