@@ -16,4 +16,11 @@ $(document).ready(function() {
     window.open($(this).attr('href'), 'Share', 'width=200,height=200,noopener');
     return false;
   });
+
+  // Search
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json'
+  })
 });
