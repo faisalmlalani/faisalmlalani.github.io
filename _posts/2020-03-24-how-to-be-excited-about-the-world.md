@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HOW TO BE EXCITED ABOUT THE WORLD"
-description: "More so, much of the good news that is shared is often presented in an un-engaging way, usually through charts or statistics. The best way to remain optimistic is to share stories."
+description: "The best way to remain optimistic is to share stories. I implore you to share your stories. I’ll do my part through the Here's To Life project, and work to share the tales of the people out there who inspire me. Their stories are what get me excited about the world, and I hope they’ll do the same for you."
 thumb_image: "documentation/2020-03-24-how-to-be-excited-about-the-world/thumb.jpg"
 tags: [ramblings]
 ---
