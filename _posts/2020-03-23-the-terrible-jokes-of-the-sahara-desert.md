@@ -3,7 +3,7 @@ layout: post
 title: "The Terrible Jokes of the Sahara Desert"
 description: "You will never be completely at home again, because part of your heart always will be elsewhere. That is the price you pay for the richness of loving and knowing people in more than one place."
 thumb_image: "documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/thumb.jpeg"
-tag: 🌏 Stories
+tags: [stories]
 ---
 
 About a year ago, I had a vision. It wasn’t a vision of anything substantial or of particular nuance, but it still gripped me. I thought about it obsessively during those few months before I left for India, which was strange for me - the scope of my daydreams usually only stretched to the most upcoming adventure, never the inevitable one after. The scene I was envisioning was articulated one day in class, when my professor noticed my trademark absentmindedness.

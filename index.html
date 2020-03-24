@@ -3,36 +3,26 @@ layout: default
 title: "Faisal M. Lalani"
 description: ""
 ---
+
 <div class="container">
-
-  <div class="row justify-content-center">
-    <div class="card text-center bg-success main-headline">
-      <div class="card-header">
-        BREAKING NEWS
-      </div>
-      <div class="card-body">
-        <h4 class="card-title">"Number of People in Extreme Poverty Fell By 137,000 Since Yesterday."</h4>
-      </div>
-    </div>
-
-  </div>
-
   <div class="row">
-
-    <div class="col-md-8">
-
       <ul class="article-list">
         {% for post in paginator.posts %}
-          <li class="card article-list-item {% if site.scrollappear_enabled %}scrollappear{% endif %}">
+          <li class="card article-list-item blog-post {% if site.scrollappear_enabled %}scrollappear{% endif %}">
             <div class="card-header">
-              <h5>{{ post.tag }}</h5>
+              {% for tag in post.tags %}
+                {% assign tag_name = site.my_tags | where: "slug", tag | map: "name" | first %}
+                <h6>
+                  <a href="{{ 'tag/' | relative_url }}{{ tag }}" class="nav-tag" title="See all posts with tag '{{ tag_name }}'">{{ tag_name }}</a>
+                </h6>
+              {% endfor %}
             </div>
             {% if post.thumb_image %}
                 {% include card-image.html path=post.thumb_image path-detail=post.thumb_image alt="HERE'S TO LIFE" %}
               {% endif %}
             <div class="card-body"> 
-              <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
-                <h5 class="card-title">{{ post.title }}</h5>
+              <a href="{{ post.url | relative_url }}" class="post-link" title="{{ post.title }}">
+                <h5 class="card-title"><strong>{{ post.title }}</strong></h5>
               </a>
               {% include article/info-footer.html post=post %}
           </div>
@@ -49,31 +39,5 @@ description: ""
           </li>
         {% endif %}
       </ul>
-
-    </div>
-
-    <div class="col-md-4 side-cards">
-
-      <div class="card mb-3" style="max-width: 18rem;">
-        <div class="card-header">
-          <h5>📰 News</h5>
-        </div>
-        <div class="card-body">
-          <h5 class="card-title">Over 100,000 people have recovered from the coronavirus around the world</h5>
-        </div>
-      </div>
-
-      <div class="card mb-3" style="max-width: 18rem;">
-        <div class="card-header">
-          <h5>📰 News</h5>
-        </div>
-        <div class="card-body">
-          <h5 class="card-title">California Governor Says Elon Musk Delivered 1,000 Ventilators</h5>
-        </div>
-      </div>
-
-    </div>
-
   </div>
-
 </div>

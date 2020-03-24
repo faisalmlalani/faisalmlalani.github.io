@@ -145,7 +145,7 @@ hr {
 
 img {
   display: block;
-  max-width: 100%;
+  width: 100%;
   margin: 0;
 }
 
@@ -158,4 +158,12 @@ img {
 ::selection {
   color: $white;
   background-color: $gray-darkest;
+}
+
+.behind-the-card {
+  background-color: #efefed;
+}
+
+.post-link:hover {
+  text-decoration: none;
 }
