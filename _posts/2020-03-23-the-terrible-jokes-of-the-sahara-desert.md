@@ -35,7 +35,7 @@ And then there I was.
 Morocco.
 
 {% include post-image.html path="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/1.jpeg" path-detail="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/1.jpeg" alt="" %}
-__The city of Fes.__
+*The city of Fes.*
 
 You know, I really did attempt to have a plan here. I wasn’t crazy enough to just fly into a community with a vastly unique culture located halfway around the world without a plan! Nu-uh, not for a fourth time.
 
@@ -46,7 +46,7 @@ I was alone, and I made the most of it by attempting to befriend everyone withou
 I was happy. Really, really happy. It was genuine, and it was in these times I felt more than ever that I could do anything because the world really was a delightful place.
 
 {% include post-image.html path="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/2.jpeg" path-detail="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/2.jpeg" alt="" %}
-__The cooks of a small cafe I would eat at. They were always full of laughter and we would playfully tease each other about our cultures.__
+*The cooks of a small cafe I would eat at. They were always full of laughter and we would playfully tease each other about our cultures.*
 
 The day I planned to go to the Sahara was a hectic one. I don’t know how many times I’ve said this over the past couple of years, but my plan had gone to hell. I didn’t know where I was going, and I was happy. Whether these were mutually exclusive of one another or correlated, I’ll let you decide.
 
@@ -57,7 +57,7 @@ Thanks to some new connections I’d made through the locals, I was able to secu
 In front of me lied the Sahara Desert, that much was clear.
 
 {% include post-image.html path="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/3.jpeg" path-detail="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/3.jpeg" alt="" %}
-__The Sahara, at last.__
+*The Sahara, at last.*
 
 Behind me were several old buildings that looked like ruins I’d seen in my time in India. One of them seemed open and inviting, so I meandered in. There was a small pool placed in front of a central room surrounded by a border of other rooms; this was most definitely some sort of desert “resort,” though the sight of degraded walls and smell of camel dung made me think to put quotes around the word “resort” if I ever blogged about this place.
 
@@ -94,7 +94,7 @@ The two-hour camel ride towards our camp exemplified the feeling of intense moti
 But we were all beside ourselves at the thought that we were riding A CAMEL IN THE SAHARA DESERT. Or maybe that was just me. I repeated that mantra over and over in my head, and each time my happiness grew, more and more. I was here, really here!
 
 {% include post-image.html path="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/4.jpeg" path-detail="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/4.jpeg" alt="" %}
-__The Berber (in blue), my Ugandan friends (behind me), and me.__
+*The Berber (in blue), my Ugandan friends (behind me), and me.*
 
 Let me tell you now with first-hand experience, riding camels is NOT a comfortable experience. Not too long after the sounds of jubilance and camera shutters filled the desert air, groans and complaints about our aching groins were all that we heard. The Berbers, meanwhile, were laughing at our discomfort. One of them decided to start taunting us:
 
@@ -192,6 +192,6 @@ And so, with the encouragement of my new friends, I “baaaaaaaa”ed into the n
 And the whole time, we laughed, and laughed, and laughed.
 
 {% include post-image.html path="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/thumb.jpeg" path-detail="documentation/2020-03-23-the-terrible-jokes-of-the-sahara-desert/thumb.jpeg" alt="" %}
-__Dream accomplished.__
+*Dream accomplished.*
 
 _*Names have been altered to hide identities._

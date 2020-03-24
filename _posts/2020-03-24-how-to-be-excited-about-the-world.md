@@ -32,7 +32,7 @@ Communities, specifically niche communities involving a small group of people ex
 Go to any social media platform, and search for them. Branch your search using your own existing interests and once you find a group — read all about them. __Look at their fan art, adopt their eccentric behaviors without judgement, and lose yourself in this community united in their collective love of whatever fiction they embrace.__
 
 {% include post-image.html path="documentation/2020-03-24-how-to-be-excited-about-the-world/1.png" path-detail="documentation/2020-03-24-how-to-be-excited-about-the-world/1.png" alt="" %}
-__The [/r/AnimalCrossing](https://www.reddit.com/r/AnimalCrossing/) community on reddit; I know nothing about the game, but the people are delightful.__
+*The [/r/AnimalCrossing](https://www.reddit.com/r/AnimalCrossing/) community on reddit; I know nothing about the game, but the people are delightful.*
 
 ## Read, read, READ
 I read a LOT. My room is filled with piles of books, all topped with a Kindle cherry which contains even more books. 
@@ -74,7 +74,7 @@ Host a talk, write a blog, start a YouTube channel, build a robot — __do *some
 Just don’t do nothing. There is nothing worse than good people who do nothing.
 
 {% include post-image.html path="documentation/2020-03-24-how-to-be-excited-about-the-world/3.jpeg" path-detail="documentation/2020-03-24-how-to-be-excited-about-the-world/3.jpeg" alt="" %}
-__A talk about my travels I gave to my local community.__
+*A talk about my travels I gave to my local community.*
 
 ---
 
