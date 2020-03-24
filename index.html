@@ -3,32 +3,77 @@ layout: default
 title: "Faisal M. Lalani"
 description: ""
 ---
+<div class="container">
 
-<ul class="article-list">
-  {% for post in paginator.posts %}
-    <li class="card article-list-item {% if site.scrollappear_enabled %}scrollappear{% endif %}">
+  <div class="row justify-content-center">
+    <div class="card text-center bg-success main-headline">
       <div class="card-header">
-        <h5>{{ post.tag }}</h5>
+        BREAKING NEWS
       </div>
-      {% if post.thumb_image %}
-          {% include card-image.html path=post.thumb_image path-detail=post.thumb_image alt="HERE'S TO LIFE" %}
-        {% endif %}
-      <div class="card-body"> 
-        <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
-          <h5 class="card-title">{{ post.title }}</h5>
-        </a>
-        {% include article/info-footer.html post=post %}
+      <div class="card-body">
+        <h4 class="card-title">"Number of People in Extreme Poverty Fell By 137,000 Since Yesterday."</h4>
+      </div>
     </div>
-    </li>
-  {% endfor %}
-  {% if paginator.total_pages > 1 %}
-    <li class="article-pagination {% if site.settings.scrollappear_enabled %}scrollappear{% endif %}">
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="article-pagination-left">{% include svg-icon.html icon="arrow-left" %} Older posts</a>
-      {% endif %}
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="article-pagination-right">Newer posts {% include svg-icon.html icon="arrow-right" %}</a>
-      {% endif %}
-    </li>
-  {% endif %}
-</ul>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-md-8">
+
+      <ul class="article-list">
+        {% for post in paginator.posts %}
+          <li class="card article-list-item {% if site.scrollappear_enabled %}scrollappear{% endif %}">
+            <div class="card-header">
+              <h5>{{ post.tag }}</h5>
+            </div>
+            {% if post.thumb_image %}
+                {% include card-image.html path=post.thumb_image path-detail=post.thumb_image alt="HERE'S TO LIFE" %}
+              {% endif %}
+            <div class="card-body"> 
+              <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
+                <h5 class="card-title">{{ post.title }}</h5>
+              </a>
+              {% include article/info-footer.html post=post %}
+          </div>
+          </li>
+        {% endfor %}
+        {% if paginator.total_pages > 1 %}
+          <li class="article-pagination {% if site.settings.scrollappear_enabled %}scrollappear{% endif %}">
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path }}" class="article-pagination-left">{% include svg-icon.html icon="arrow-left" %} Older posts</a>
+            {% endif %}
+            {% if paginator.previous_page %}
+              <a href="{{ paginator.previous_page_path }}" class="article-pagination-right">Newer posts {% include svg-icon.html icon="arrow-right" %}</a>
+            {% endif %}
+          </li>
+        {% endif %}
+      </ul>
+
+    </div>
+
+    <div class="col-md-4 side-cards">
+
+      <div class="card mb-3" style="max-width: 18rem;">
+        <div class="card-header">
+          <h5>📰 News</h5>
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Over 100,000 people have recovered from the coronavirus around the world</h5>
+        </div>
+      </div>
+
+      <div class="card mb-3" style="max-width: 18rem;">
+        <div class="card-header">
+          <h5>📰 News</h5>
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">California Governor Says Elon Musk Delivered 1,000 Ventilators</h5>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

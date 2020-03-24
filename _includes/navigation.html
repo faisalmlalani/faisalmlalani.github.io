@@ -15,10 +15,10 @@
         <a class="nav-link" href="/">🤖Research</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/">📰News</a>
+        <a class="nav-link" href="/">📚Books</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/">📚Books</a>
+        <a class="nav-link" href="/">📰News</a>
       </li>
     </ul>
     <!-- <form class="form-inline">
@@ -32,16 +32,17 @@
   <a href="{{ '/' | relative_url }}" class="header-logo" title="{{ site.name }}">{% include image.html path="banner.png" path-detail="banner.png" alt="HERE'S TO LIFE" %}</a>
 </nav>
 
-{% if site.tag_nav_enabled %}
-  <ul id="results-container" class="header-tags {% if site.scrollappear_enabled %}scrollappear{% endif %}">
-    {% assign tags = site.tags | sort %}
-    {% for tag in tags %}
-      {% if forloop.index > 10 %}
-        <li>...</li>
-        <li><a href="/tags">Show all</a></li>
-        {% break %}
-      {% endif %}
-        <li><a href="{{ 'tag/' | relative_url }}{{ tag[0] }}">{{ tag[0] | capitalize }}</a></li>
-    {% endfor %}
-  </ul>
-{% endif %}
+  <!-- {% if site.tag_nav_enabled %}
+    <ul id="results-container" class="header-tags {% if site.scrollappear_enabled %}scrollappear{% endif %}">
+      {% assign tags = site.tags | sort %}
+      {% for tag in tags %}
+        {% if forloop.index > 10 %}
+          <li>...</li>
+          <li><a href="/tags">Show all</a></li>
+          {% break %}
+        {% endif %}
+          <li><a href="{{ 'tag/' | relative_url }}{{ tag[0] }}">{{ tag[0] | capitalize }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %} -->
+

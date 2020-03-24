@@ -617,8 +617,11 @@ img {
   margin-right: auto;
   margin-left: auto; }
 
-.card {
-  margin: 2% 15%; }
+.main-headline {
+  color: white;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 0; }
 
 .card-img-top {
   width: 100%;
@@ -629,6 +632,9 @@ img {
 .post-image {
   width: 70%;
   height: 45%; }
+
+.side-cards {
+  margin: 50px 0; }
 
 @media all and (max-width: 767px) {
   .grid-cell.with-1col {
