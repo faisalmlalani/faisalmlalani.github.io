@@ -12,16 +12,16 @@ I’m known (and sometimes even reprimanded) for a trademark optimism that may o
 
 I think it’s important to start by pointing out that it’s not like I’m happy all the time. Or excited. Or really, any single emotion. The human experience is far too nuanced for a single emotion at any given time. 
 
-Right now I’m stuck in quarantine like all of you and I’m restless that I can’t go to the gym or travel to a different city. However, I’m also feeling incredibly inspired by the stories I hear about the lengths everyday citizens are going to to reach out to members of their community affected at a larger scale by the pandemic. 
+Right now I’m stuck in quarantine like all of you and I’m sad I can't travel, to another city, or to the gym for that matter. However, I’m also feeling incredibly inspired by the stories I hear about the lengths everyday citizens are going to to reach out to members of their community affected at a larger scale by the pandemic. 
 
 Yes, there are those who are handling the situation with less… dignity than one might hope for, but no narrative, good or bad, exists in isolation. It’s perfectly fine to get discouraged reading stories about people hoarding toilet paper, but it’s not okay to forget the high schoolers picking up groceries for the unable elderly.
 
-However, adopting a more optimistic outlook is more than just favorable conditions around you. __The goal is remaining optimistic even when you’re backed into a corner and the world is against you.__ I can’t tell you how many times I’ve been stranded in the middle of nowhere in some foreign country or been dropped in a situation designed to induce the depths of my anxiety. But eventually, it got easier. Not just because I got smarter or more physically able — but because I got *excited* about being challenged, about being pushed to my limits and letting the world know what I was made of. __That’s the key — get excited when you’re faced with problems, and even you’ll be surprised at how strong you are.__
+Adopting a more optimistic outlook is more than just favorable conditions around you. __The goal is remaining optimistic even when you’re backed into a corner and it seems like the world is against you.__ I can’t tell you how many times I’ve been stranded in the middle of nowhere in some foreign country or been dropped in a situation designed to induce the depths of my anxiety. But eventually, it got easier. Not just because I got smarter or more physically able — but because I got *excited* about being challenged, about being pushed to my limits and letting the world know what I was made of. __That’s the key — get excited when you’re faced with problems, and even you’ll be surprised at how strong you are.__
 
 I’ve come to think of this idea of becoming excited as a skill, because like I said, it’s something that gets easier over time. Below, I have some surefire ways to help you develop that skill. Don’t worry — it’s not some abstract philosophical soul-searching or common-sense tidbits like “just smile” (though that always helps).
 
 ## Immerse yourself in a niche community
-I am NOT a gamer, but I LOVE the gaming community.
+I am not a gamer, but I LOVE the gaming community.
 
 I have no consoles or a computer capable of playing mainstream video games, but I still avidly follow different gaming fandoms. On reddit, I’m subscribed to specific gaming subreddits like [/r/Breath_Of_The_Wild](https://www.reddit.com/r/Breath_of_the_Wild/), [/r/AnimalCrossing](https://www.reddit.com/r/AnimalCrossing/), and [/r/GodOfWar](https://www.reddit.com/r/GodofWar/) even though I don’t own any of these games and have not played them. On YouTube, I routinely watch game development videos and get swept down the rabbit hole of gaming analysis videos for video games I’d never even heard of before, like Hollow Knight.
 
