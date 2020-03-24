@@ -660,6 +660,9 @@ img {
 .footer-row {
   padding: 0; }
 
+.article-list {
+  width: 100%; }
+
 @media all and (max-width: 767px) {
   .grid-cell.with-1col {
     width: 100%; }

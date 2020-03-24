@@ -1,10 +1,8 @@
-<!-- <script src="{{'/node_modules/jquery/dist/jquery.min.js' | relative_url}}"></script>
-<script src="{{'/node_modules/popper.js/dist/umd/popper.min.js' | relative_url}}"></script>
-<script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | relative_url}}"></script> -->
+<script async src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 
-{% asset jquery.min.js %}
-{% asset popper.min.js %}
-{% asset bootstrap.min.js %}
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/popper.min.js.map"></script>
+
+<script async src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
 {% if site.ga_analytics %}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_analytics }}"></script>
