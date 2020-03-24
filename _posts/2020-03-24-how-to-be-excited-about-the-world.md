@@ -31,6 +31,8 @@ Communities, specifically niche communities involving a small group of people ex
 
 Go to any social media platform, and search for them. Branch your search using your own existing interests and once you find a group — read all about them. __Look at their fan art, adopt their eccentric behaviors without judgement, and lose yourself in this community united in their collective love of whatever fiction they embrace.__
 
+{% include post-image.html path="documentation/2020-03-24-how-to-be-excited-about-the-world/1.png" path-detail="documentation/2020-03-24-how-to-be-excited-about-the-world/1.png" alt="" %}
+
 ## Read, read, READ
 I read a LOT. My room is filled with piles of books, all topped with a Kindle cherry which contains even more books. 
 
@@ -70,10 +72,15 @@ Host a talk, write a blog, start a YouTube channel, build a robot — __do *some
 
 Just don’t do nothing. There is nothing worse than good people who do nothing.
 
+{% include post-image.html path="documentation/2020-03-24-how-to-be-excited-about-the-world/3.jpeg" path-detail="documentation/2020-03-24-how-to-be-excited-about-the-world/3.jpeg" alt="" %}
+
 ---
 
 The *Here’s To Life* project was started with these principles in mind. It’s completely understandable how difficult it is to be optimistic when everything you hear is negative. The nature of media, however, is inconsistent with the nature of good news. Progress occurs over a period of time, and the news reports on what happens *now*. 
 
 More so, much of the good news that is shared is often presented in an un-engaging way, usually through charts or statistics.  __The best way to remain optimistic is to share stories.__ Everything I wrote above is indicative of this message. I don’t think there’s anything particularly special in any of it, because it’s they’re all incredibly accessible. However, what is special is how I originated the content based on my own unique experiences traveling abroad. I’m excited about the world because I’ve listened to the stories of people I don’t know, people that aren’t like me, people that don’t think the way I do. That understanding is rooted in any optimism I carry with me. 
 
-I implore you to share your stories. I’ll do my part through this project, and work to share the tales of the people out there who inspire me. Their stories are what get me excited about the world, and I hope they’ll do the same for you. 
+I implore you to share your stories. I’ll do my part through this project, and work to share the tales of the people out there who inspire me. Their stories are what get me excited about the world, and I hope they’ll do the same for you.
+
+{% include post-image.html path="documentation/2020-03-24-how-to-be-excited-about-the-world/thumb.jpg" path-detail="documentation/2020-03-24-how-to-be-excited-about-the-world/thumb.jpg" alt="" %}
+*[Here's to Life by /u/danielsartwork](https://www.reddit.com/r/Art/comments/dcebdw/heres_to_life_me_oil_on_canvas_2015/)*
