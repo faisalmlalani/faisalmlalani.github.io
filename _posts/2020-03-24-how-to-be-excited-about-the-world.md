@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HOW TO BE EXCITED ABOUT THE WORLD"
-description: "The best way to remain optimistic is to share stories. I implore you to share your stories. I’ll do my part through the Here's To Life project, and work to share the tales of the people out there who inspire me. Their stories are what get me excited about the world, and I hope they’ll do the same for you."
+description: "The best way to remain optimistic is to share stories. I’ll do my part through the Here's To Life project, and work to share the tales of the people out there who inspire me. Their stories are what get me excited about the world, and I hope they’ll do the same for you."
 thumb_image: "documentation/2020-03-24-how-to-be-excited-about-the-world/thumb.jpg"
 tags: [ramblings]
 ---
@@ -69,7 +69,7 @@ One of the most obvious forms of participation is voting. Think of voting as an 
 
 More so, the scope of participating reaches beyond social action. I would argue that the expression of self is a cosmic obligation for anyone; how can you keep all the things you’ve learned, the laughs you’ve shared, the art you’ve created, the wisdom you’ve accumulated, the lessons you’ve embraced, the potentialities you’ve reached all to yourself?
 
-Host a talk, write a blog, start a YouTube channel, build a robot — __do *something* with all of that everything!__
+Host a talk, write a blog, start a YouTube channel, build a robot — __do *something* with all of your everything!__
 
 Just don’t do nothing. There is nothing worse than good people who do nothing.
 
