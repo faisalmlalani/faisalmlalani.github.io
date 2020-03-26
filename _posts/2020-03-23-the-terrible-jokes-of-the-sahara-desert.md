@@ -22,7 +22,7 @@ I could tell neither him nor my classmates really believed me (especially based 
 
 Returning from my travels always plagued me with feelings of resentment towards home. The physical challenges and emotional tolls I endured - whether I’m attempting to surf in African waters near Cape Town or boarding with orphans in one of the world’s poorest villages - are disparities from normalcy I crave in my day-to-day. This hunger for adventure was getting desperate, and so naturally (at least, to me) the thought of adding another absurdity to my bucket list kept me sane throughout my time back in university.
 
-The vision itself was of a future-me; skinnier and more fit, wearing something /cool/. Like a ragged scarf and a Henley. The camel I was riding, the desert environment around me - these were all imaginary factors derived from some movie I might’ve watched or video game I may have played. And there was some element of danger involved, because for some reason I believed that if there wasn’t, then the dream was too good for me.
+The vision itself was of a future-me; skinnier and more fit, wearing something *cool*. Like a ragged scarf and a Henley. The camel I was riding, the desert environment around me - these were all imaginary factors derived from some movie I might’ve watched or video game I may have played. And there was some element of danger involved, because for some reason I believed that if there wasn’t, then the dream was too good for me.
 
 Now let’s fast-forward past further inner misery. And then fast-forward again past my time in India and the experience of loving friendships, engaging research, jungle expeditions in search of tigers, explorations of ancient ruins, motorcycle rides through Heaven on Earth (Ladakh), and lots and lots of Butter Chicken.
 
@@ -65,13 +65,13 @@ A manager at the front welcomed me, in Arabic. I asked him, politely, where the 
 
 As I sat by the pool trying to get signal on my phone so I could contact the driver who dropped me off here, three saviors came bursting out of a nearby room, laughing. Two looked and sounded like locals from a neighboring African country, while the third was very clearly American. The three jumped into the pool and played around like I remember my childhood friends and I used to in our neighborhood pool. Except these guys were, of course, doing it in the Sahara Desert.
 
-“/Hi!! Are you guys part of an excursion here?/“
+_“Hi!! Are you guys part of an excursion here?“_
 
-/“Yes we are, friend. Where you from? You sound American, like this fool *Kevin over here./“
+_“Yes we are, friend. Where you from? You sound American, like this fool *Kevin over here.“_
 
 Kevin the American splashed water on him. They laughed and teased each other a bit before I replied.
 
-/“Yes, I- actually I’m from India.”/
+*“Yes, I- actually I’m from India.”*
 
 It was a new habit I was trying to form. Growing up Indian in the States naturally led to a sort of shame at that part of my identity, but my recent time there had instilled a pride in my birth country I’d never had before.
 
@@ -118,7 +118,7 @@ We all sat in chairs laid out for us for one hour, two hours, three. No sign fro
 
 _“A little boy, no older than six, he keeps patting his mother on her arm as she try to sleep. And his poor mother, bless her heart, she worked so much during the day! I know this because I can see how tired she is. So we say to the boy “why don’t you leave your mother to sleep and talk to us?” And the boy, he babbles on and on about Harry Potter and Superman and so, so, many things. And we listened intently! What a boy, what a boy he was. He was so confident. He told us that when he grows older he would help his mother and make their family rich so his mother did not have to work anymore. He put his arms on his hips, puffed out his little chest, and said he was going to be Superman.“_
 
-With the way Oki spoke, each word of his tale was powered by emotion. You could tell that what he was saying wasn’t just what he thought, but also what he /felt/. He spoke with a tone that made you want to hear every detail just so you could continue to enveloped in that passion towards people that Oki seemed to exuberate. He loved life and was excited about it, and I was all for it.
+With the way Oki spoke, each word of his tale was powered by emotion. You could tell that what he was saying wasn’t just what he thought, but also what he _felt_. He spoke with a tone that made you want to hear every detail just so you could continue to enveloped in that passion towards people that Oki seemed to exuberate. He loved life and was excited about it, and I was all for it.
 
 _“Oh, Faisal. It’s been so good seeing the world with these fools. We laughed, and laughed, and laughed.“_
 
