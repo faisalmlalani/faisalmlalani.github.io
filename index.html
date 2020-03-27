@@ -24,6 +24,15 @@ description: ""
               <a href="{{ post.url | relative_url }}" class="post-link" title="{{ post.title }}">
                 <h5 class="card-title"><strong>{{ post.title }}</strong></h5>
               </a>
+              {% for author in post.authors %}
+              {% assign author_name = site.my_authors | where: "slug", author | map: "name" | first %}
+              {% assign author_image = site.my_authors | where: "slug", author | map: "image" | first %}              
+              <h6>
+                <a href="{{ 'author/' | relative_url }}{{ author }}" class="nav-tag" title="See all posts by author '{{ author_name }}'" style="float: left; margin-top: 5px; margin-right: 7px;">by {{ author_name }}
+                  {% include author-image.html path=author_image path-detail=author_image alt="HERE'S TO LIFE" %}
+                </a>
+              </h6>
+              {% endfor %}
               {% include article/info-footer.html post=post %}
           </div>
           </li>

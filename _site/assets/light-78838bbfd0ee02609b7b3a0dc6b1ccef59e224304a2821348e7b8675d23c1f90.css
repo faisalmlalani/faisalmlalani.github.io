@@ -515,7 +515,6 @@ hr {
 
 img {
   display: block;
-  width: 100%;
   margin: 0; }
 
 .notfound-wrapper {
@@ -536,6 +535,9 @@ img {
 
 .post-link:hover {
   text-decoration: none; }
+
+.navbar-tag {
+  margin: 0 5px; }
 
 .footer {
   display: block;
@@ -650,8 +652,7 @@ img {
   margin: 50px 0; }
 
 .nav-tag {
-  color: black;
-  padding: 0 5px; }
+  color: black; }
 
 .nav-tag:hover {
   color: black;
@@ -727,7 +728,6 @@ img {
 .article-list {
   display: block;
   padding: 0;
-  margin: 50px 0;
   list-style: none; }
   .article-list li {
     position: relative;
@@ -914,8 +914,7 @@ img {
   padding-bottom: 56.25%; }
 
 .header-nav {
-  display: block;
-  border-bottom: 1px solid #ebeaea; }
+  display: block; }
 
 .header-logo {
   display: block;
@@ -982,6 +981,11 @@ img {
       padding: 0 5px; } }
 .bg-light {
   background-color: white; }
+
+.banner {
+  width: 100%;
+  height: 75%;
+  margin-bottom: 5%; }
 
 .highlight {
   padding: 25px;

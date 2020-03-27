@@ -145,7 +145,6 @@ hr {
 
 img {
   display: block;
-  width: 100%;
   margin: 0;
 }
 
@@ -166,4 +165,8 @@ img {
 
 .post-link:hover {
   text-decoration: none;
+}
+
+.navbar-tag {
+  margin: 0 5px;
 }

@@ -13,7 +13,7 @@
         {% for my_tag in my_tags.docs %}
           {% if tag_slug == my_tag.slug %}
             {% assign tag_name = my_tag.name %}
-            <li><a href="{{ 'tag/' | relative_url }}{{ tag_slug }}" class="nav-tag">{{ tag_name }}</a></li>
+            <li><a href="{{ 'tag/' | relative_url }}{{ tag_slug }}" class="navbar-tag nav-tag">{{ tag_name }}</a></li>
           {% endif %}
         {% endfor %}
       {% endfor %}
