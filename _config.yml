@@ -61,9 +61,6 @@ collections:
   my_tags:
     output: true
     permalink: /tag/:slug/
-  my_authors:
-    output: true
-    permalink: /author/:slug/
 defaults:
   -
     scope:
@@ -71,12 +68,6 @@ defaults:
       type: my_tags
     values:
       layout: articles_by_tag
-  -
-    scope:
-      path: ""
-      type: my_authors
-    values:
-      layout: articles_by_author
 exclude:
   - .travis.yml
   - bin/*
@@ -98,3 +89,7 @@ sass:
   load_paths:
       - _sass
       - node_modules
+
+faisal_lalani:
+  name: Faisal M. Lalani
+  image: documentation/authors/lalani.png
