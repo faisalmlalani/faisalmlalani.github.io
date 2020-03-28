@@ -18,8 +18,8 @@ description: ""
               {% endfor %}
             </div>
             {% if post.thumb_image %}
-                {% include card-image.html path=post.thumb_image path-detail=post.thumb_image alt="HERE'S TO LIFE" %}
-              {% endif %}
+              {% include card-image.html path=post.thumb_image path-detail=post.thumb_image alt="HERE'S TO LIFE" %}
+            {% endif %}
             <div class="card-body"> 
               <a href="{{ post.url | relative_url }}" class="post-link" title="{{ post.title }}">
                 <h5 class="card-title"><strong>{{ post.title }}</strong></h5>
