@@ -1,0 +1,27 @@
+<h5 class="section-heading text-center">❤️ Food for Heart</h5>
+      <ul class="article-list">
+        {% for post in paginator.posts %}
+          {% if post.food_for_heart %}
+          <li class="card card-col-right article-list-item blog-post {% if site.scrollappear_enabled %}scrollappear{% endif %}">
+            {% if post.embedded %}
+                {{ post.embedded }}
+            {% else %}
+              {% include card-fh-image.html path=post.thumb_image path-detail=post.thumb_image alt="HERE'S TO LIFE" %}
+            {% endif %}
+            {% if post.source %}
+                {% include article/info-fh-footer.html post=post %}
+            {% endif %}
+          </li>
+        {% endif %}
+        {% endfor %}
+        {% if paginator.total_pages > 1 %}
+          <li class="article-pagination {% if site.settings.scrollappear_enabled %}scrollappear{% endif %}">
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path }}" class="article-pagination-left">{% include svg-icon.html icon="arrow-left" %} Older posts</a>
+            {% endif %}
+            {% if paginator.previous_page %}
+              <a href="{{ paginator.previous_page_path }}" class="article-pagination-right">Newer posts {% include svg-icon.html icon="arrow-right" %}</a>
+            {% endif %}
+          </li>
+        {% endif %}
+      </ul>

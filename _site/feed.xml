@@ -15,9 +15,17 @@
       </item>
     
       <item>
-        <title></title>
+        <title>@aldocviolin</title>
         <description></description>
         <pubDate>Sat, 28 Mar 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/aldocviolin</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/aldocviolin</guid>
+      </item>
+    
+      <item>
+        <title>paulielama2 on Instagram</title>
+        <description></description>
+        <pubDate>Fri, 27 Mar 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/paulielama2</link>
         <guid isPermaLink="true">http://localhost:4000/posts/paulielama2</guid>
       </item>
