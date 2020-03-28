@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/tag/highlights/</loc>
+<lastmod>2020-03-28T12:00:53-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/tag/ramblings/</loc>
-<lastmod>2020-03-27T18:04:34-05:00</lastmod>
+<lastmod>2020-03-28T12:00:53-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tag/stories/</loc>
-<lastmod>2020-03-27T18:04:34-05:00</lastmod>
+<lastmod>2020-03-28T12:00:53-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/the-terrible-jokes-of-the-sahara-desert</loc>
