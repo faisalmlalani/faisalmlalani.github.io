@@ -5,6 +5,7 @@ description: "The best way to remain optimistic is to share stories. I’ll do m
 thumb_image: "documentation/2020-03-24-how-to-be-excited-about-the-world/thumb.jpg"
 tags: [ramblings]
 author: faisal_lalani
+food_for_heart: false
 ---
 
 There is a LOT to be excited about. Yes, even now.

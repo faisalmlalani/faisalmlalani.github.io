@@ -5,6 +5,7 @@ description: "In following up with the spirit of optimism from last week’s pos
 thumb_image: "documentation/2020-03-31-the-best-of-us-covid-19-edition/thumb.jpg"
 tags: [highlights]
 author: faisal_lalani
+food_for_heart: false
 ---
 
 ...in progress...

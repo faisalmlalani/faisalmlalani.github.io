@@ -1,4 +1,0 @@
----
-slug: stories
-name: 🌏 Stories
----
