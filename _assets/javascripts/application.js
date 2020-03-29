@@ -20,6 +20,9 @@ $(document).ready(function() {
 
 function updateArticleList(url) {   
   let full_url = "tag/" + url;
-  console.log("Check error!")
-  $( ".stories-section" ).load( full_url );
+  $.ajax(full_url,{
+    success: function(response) {
+        $(".stories-section").html(response);
+    }
+  });
 }

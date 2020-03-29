@@ -16,3 +16,13 @@ $(document).ready(function() {
     return false;
   });
 });
+
+function updateArticleList(url) {   
+  let full_url = "tag/" + url;
+  $.ajax(full_url,{
+    success: function(response) {
+        $(".stories-section").html(response);
+    }
+  });
+}
+;

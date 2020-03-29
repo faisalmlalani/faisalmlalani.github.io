@@ -19,6 +19,11 @@ $(document).ready(function() {
 
 function updateArticleList(url) {   
   let full_url = "tag/" + url;
-  $( ".stories-section" ).load( full_url );
+  $.ajax(full_url,{
+    success: function(response) {
+        $(".stories-section").html(response);
+    }
+  });
+  // $( ".stories-section" ).load( full_url );
 }
 ;
