@@ -539,6 +539,20 @@ img {
 .navbar-tag {
   margin: 0 5px; }
 
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+  margin: 2%; }
+
+.iframe-container iframe {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%; }
+
 .footer {
   display: block;
   padding-top: 35px;

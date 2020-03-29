@@ -24,4 +24,6 @@ Over the past month, it seems as if Italy has been the lowest hanging fruit for 
 
 Italy’s musicians beg to differ; 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x_rLw6SCSmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/x_rLw6SCSmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
