@@ -14,6 +14,10 @@ __The Best of Us__ refers to the people working tirelessly to sustain this hope.
 
 It’s during hard times that you see what people are really like — and I want to share the stories of a few community efforts that are representing the best of us.
 
+This does not mean I’m trying to minimize the devastation. The struggles and suffering of the heroes in hospitals are very real and cannot be understated. There are legitimate concerns in terms of human rights violations, misinformation spread, and political instability. People everywhere are dying — and we need to take all of it seriously.
+
+With that being said, hope also needs to be taken seriously.  It’s one of our most powerful weapons against any threat — global pandemic or otherwise.
+
 ## The Balcony Orchestra
 
 _I am not a doctor, I cannot heal people, but I can give hope and I can make people fly with me, at least for 5 minutes a day._ - __Aldo Cicchini__
