@@ -53,7 +53,7 @@ Jim Halpert gets it. He’s not preaching absurdities or spreading his own propa
     <iframe src="https://www.youtube.com/embed/F5pgG1M_h_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## The Grateful
+## The Applauders
 
 The soldiers at the front lines are the health workers in hospitals, and despite their courage, diligence, and dexterity, the overwhelming impact of the virus is enough to impact the psychological underpinnings of any individual. 
 
@@ -80,7 +80,7 @@ Lately, the streaming framework has extended to other groups: coders, artists, m
     <iframe src="https://www.youtube.com/embed/3vedfD0UTlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## The Volunteers
+## The Students
 
 Fortunately, COVID-19’s effect on youth is minimal. Unfortunately, despite only showing mild symptoms, students still have to stay home from school due to their high risk of being carriers of the virus.
 
