@@ -62,9 +62,8 @@ What we do as outside the hospital can directly impact those inside; not just by
 The UK, Italy, Spain, Turkey, and India are all taking this to heart, cheering on from their metaphorical stands through their windows and balconies.
 
 <div class="iframe-container">
-    <iframe frameborder="0" src="https://www.bbc.com/news/av/embed/p087v15t/52068233"></iframe>
+    <iframe src="https://www.youtube.com/embed/Z5EpwAUwLkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-_[BBC: UK applauds health workers fighting the coronavirus](https://www.bbc.com/news/world-52068233)_
 
 __Sources__: [Coronavirus: Worldwide applause for front-line medical staff](https://www.aljazeera.com/programmes/newsfeed/2020/03/coronavirus-worldwide-applause-frontline-medical-staff-200330111116862.html), [New York City spent two minutes clapping for coronavirus first responders](https://www.cnn.com/2020/03/27/us/new-york-claps-for-first-responders-trnd/index.html), [India: Whole nation shares a big round of applause for health care workers amid COVID-19 outbreak](https://www.youtube.com/watch?v=hHpQo_7c7ow)
 
