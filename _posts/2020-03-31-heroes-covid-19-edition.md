@@ -16,11 +16,11 @@ It’s during hard times that you see what people are really like — and I want
 
 This does not mean I’m trying to minimize the devastation. The struggles and suffering of the heroes in hospitals are very real and cannot be understated. There are legitimate concerns in terms of human rights violations, misinformation spread, and political instability. People everywhere are dying — and we need to take all of it seriously.
 
-With that being said, hope also needs to be taken seriously.  It’s one of our most powerful weapons against any threat — public health catastrophe or otherwise. And this isn’t just preachy babble: [you can read a number of medical studies that cite the psychological effects of altruism as the deciding factor in whether a patient survives their trauma or not.](https://www.google.com/search?client=safari&rls=en&q=medical+studies+altruism+hope&ie=UTF-8&oe=UTF-8)
+With that being said, hope also needs to be taken seriously. It’s one of our most powerful weapons against any threat — public health catastrophe or otherwise. And this isn’t just preachy babble: [you can read a number of medical studies that cite the psychological effects of altruism as the deciding factor in whether a patient survives their trauma or not.](https://www.google.com/search?client=safari&rls=en&q=medical+studies+altruism+hope&ie=UTF-8&oe=UTF-8)
 
 __It’s easy to laugh off something as abstract and idealistic as hope; what shows real courage is rising above cynicism and being a reason for others to do the same.__
 
-## The Balcony Orchestra
+## The Musicians
 
 _I am not a doctor, I cannot heal people, but I can give hope and I can make people fly with me, at least for 5 minutes a day._ - __Aldo Cicchini__
 
@@ -32,9 +32,16 @@ Italy’s musicians beg to differ. They’re the ones playing their pianos and v
     <iframe src="https://www.youtube.com/embed/x_rLw6SCSmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-__Sources__: [Italians Find ‘a Moment of Joy in This Moment of Anxiety’](https://www.nytimes.com/2020/03/14/world/europe/italians-find-a-moment-of-joy-in-this-moment-of-anxiety.html)
+__Sources__: [Italians Find ‘a Moment of Joy in This Moment of Anxiety’](https://www.nytimes.com/2020/03/14/world/europe/italians-find-a-moment-of-joy-in-this-moment-of-anxiety.html), [Being our best selves during coronavirus](https://www.youtube.com/watch?v=xdw7WEMe9AI&t=157s)
 
-## Some Good News
+## The Innovators
+Complacency is yet another victim of the coronavirus; fortunately, when complacency falls, the fires in the eyes of engineers, developers, and scientists of the world come alive.
+
+From [3D printing ventilator valves in Brescia](https://www.medicaldevice-network.com/news/3d-printed-valves-covid-19-italy/) to [tracking the essential supplies of local grocery stores in Austin](https://cbsaustin.com/news/local/two-ut-students-launch-website-that-tracks-store-inventories), innovators of all ages are pulling out their metaphorical toolboxes and getting to work on creative solutions to the new, pandemic-related problems of our time.
+
+The United Nations has even called for [an open brief to all creators](https://www.talenthouse.com/i/united-nations-global-call-out-to-creatives-help-stop-the-spread-of-covid-19) to help the world through these troubling times by building something to encourage social distancing, stop the spread of misinformation, make donating more accessible, and more.
+
+## The YouTubers
 
 It seems the positivity train is picking up steam: celebrities with far more star power than I are amplifying the optimism of the masses. 
 
@@ -46,7 +53,7 @@ Jim Halpert gets it. He’s not preaching absurdities or spreading his own propa
     <iframe src="https://www.youtube.com/embed/F5pgG1M_h_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Unbound Gratitude
+## The Grateful
 
 The soldiers at the front lines are the health workers in hospitals, and despite their courage, diligence, and dexterity, the overwhelming impact of the virus is enough to impact the psychological underpinnings of any individual. 
 
@@ -59,7 +66,7 @@ The UK, Italy, Spain, Turkey, and India are all taking this to heart, cheering o
 </div>
 _[BBC: UK applauds health workers fighting the coronavirus](https://www.bbc.com/news/world-52068233)_
 
-__Sources__: [Coronavirus: Worldwide applause for front-line medical staff](https://www.aljazeera.com/programmes/newsfeed/2020/03/coronavirus-worldwide-applause-frontline-medical-staff-200330111116862.html)
+__Sources__: [Coronavirus: Worldwide applause for front-line medical staff](https://www.aljazeera.com/programmes/newsfeed/2020/03/coronavirus-worldwide-applause-frontline-medical-staff-200330111116862.html), [New York City spent two minutes clapping for coronavirus first responders](https://www.cnn.com/2020/03/27/us/new-york-claps-for-first-responders-trnd/index.html), [India: Whole nation shares a big round of applause for health care workers amid COVID-19 outbreak](https://www.youtube.com/watch?v=hHpQo_7c7ow)
 
 ## The Streamers
 
@@ -74,6 +81,19 @@ Lately, the streaming framework has extended to other groups: coders, artists, m
 </div>
 
 ## The Health Workers
-Remember the impoverished - they’ll be the ones still suffering when more developed health systems alleviate concerns of the virus for the rest of us.
+
+Doctors and nurses everywhere deserve a parade after all this is over. This is something everyone agrees on, so I want to take a moment to specifically highlight the health workers in poorer countries.
+
+Right now, the focus is on countries like the United States, Italy, and China. As seasonality comes into play, underserved countries (especially those in the Southern Hemisphere) will feel the worst effects of COVID-19, if they haven’t already. Many of these places have health systems that contain incredibly low ratios of doctors to patients. More so, while we can sign a 2 trillion dollar stimulus package to help our economy, these poorer countries already burdened with debt will find it next to impossible to service their already impoverished health systems. 
+
+Existing _international_ inequalities will widen, and it’ll be up to us to keep the pressure on the right people to get cheap, accessible testing to these nations. By doing our part, we can support the already strained doctors who have the increased stress of dealing with a country in poverty. Citizens are much less likely to practice social distancing due to the circumstances of their poorer conditions, and as a result more and more people are likely to get sick. They’re also at a terrifying risk of starvation and other illnesses as they’re forced to stay home to prevent the spread of COVID-19; we’re lucky enough to have a home to be isolated to — for many, they have nowhere but work to be. Population density, improper testing, inept leadership — these problems now not only exist in impoverished countries, they’re being defined by them.
+
+This is not to say that their situation is hopeless. Health workers are still out there, showing up daily despite the situation looking bleaker for them than anywhere else in the world. International efforts through GAVI, the Gates Foundation, Global Health Security Agenda, and WHO are funding the safety gear, therapeutics, vaccines, and other necessities. Further, the restless citizens of these countries aren’t just sitting around watching — homeless shelters are being constructed, food packages are being sent out, celebrities are donating millions, locals are spreading fundraising requests on social media.
+
+But still — __remember the impoverished; they’ll be the ones still suffering when more developed health systems alleviate concerns for the rest of us.__
 
 {% include post-image.html path="documentation/2020-03-31-heroes-covid-19-edition/thumb.jpg" path-detail="documentation/2020-03-31-heroes-covid-19-edition/thumb.jpg" alt="" %}
+
+_[BBC: Cases have increased sharply in India in recent days](https://www.bbc.com/news/world-asia-india-52039185)_
+
+__Sources__: [How we must respond to the coronavirus pandemic - Bill Gates](https://www.youtube.com/watch?v=Xe8fIjxicoo), [As coronavirus spreads to poorer countries, here's how the world can help](https://www.weforum.org/agenda/2020/03/coronavirus-developing-countries-inequality-debt-oxfam/), [The Best Defense Against Disturbing New Diseases](https://www.theatlantic.com/ideas/archive/2020/02/poor-countries-are-front-line-against-coronavirus/606283/)
