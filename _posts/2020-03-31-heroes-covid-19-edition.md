@@ -18,7 +18,7 @@ This does not mean I’m trying to minimize the devastation. The struggles and s
 
 With that being said, hope also needs to be taken seriously. It’s one of our most powerful weapons against any threat — public health catastrophe or otherwise. And this isn’t just preachy babble: [you can read a number of medical studies that cite the psychological effects of altruism as the deciding factor in whether a patient survives their trauma or not.](https://www.google.com/search?client=safari&rls=en&q=medical+studies+altruism+hope&ie=UTF-8&oe=UTF-8)
 
-__It’s easy to laugh off something as abstract and idealistic as hope; what shows real courage is rising above cynicism and being a reason for others to do the same.__
+__It’s easy to laugh off something as abstract and idealistic as hope; what takes real courage is rising above cynicism and being a reason for others to do the same.__
 
 ## The Musicians
 
@@ -45,7 +45,7 @@ The United Nations has even called for [an open brief to all creators](https://w
 
 It seems the positivity train is picking up steam: celebrities with far more star power than I are amplifying the optimism of the masses. 
 
-The most notable is John Krasinski’s new YouTube Series, /Some Good News/, in which he gathers up the positive stories of thousands of fans and presents them in a low-budget, high-quality format. He’s even interviewing some of them, including a cancer patient who finally finished her chemotherapy treatment.
+The most notable is John Krasinski’s new YouTube Series, _Some Good News_, in which he gathers up the positive stories of thousands of fans and presents them in a low-budget, high-quality format. He’s even interviewing some of them, including a cancer patient who finally finished her chemotherapy treatment.
 
 Jim Halpert gets it. He’s not preaching absurdities or spreading his own propaganda, he’s sharing the experiences of the community. __That’s how any social change starts — amplifying the existing good.__
 
@@ -78,6 +78,22 @@ Lately, the streaming framework has extended to other groups: coders, artists, m
 
 <div class="iframe-container">
     <iframe src="https://www.youtube.com/embed/3vedfD0UTlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## The Volunteers
+
+Fortunately, COVID-19’s effect on youth is minimal. Unfortunately, despite only showing mild symptoms, students still have to stay home from school due to their high risk of being carriers of the virus.
+
+Many students are making the most of their heightened immunity and increased free time by forming in groups and offering their services to less-fortunate demographics. 
+
+[Invisible Hands](https://apnews.com/bda9c1ed0f8e10742ad2feabb2d52aa2) is one of these groups. Their website allows at-risk populations - the elderly, large families - to request volunteers to deliver groceries and other essentials to their doorstep.
+
+[Other students are collecting thousands of masks, baby- or pet-sitting for health workers, and organizing community food donation drives.](https://www.nytimes.com/2020/03/23/health/medical-students-coronavirus.html)
+
+Oh, and they're building _robots_ too.
+
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/uMUO9D7WHwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## The Health Workers
