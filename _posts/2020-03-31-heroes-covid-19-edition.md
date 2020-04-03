@@ -10,7 +10,7 @@ food_for_heart: false
 
 In following up with the spirit of optimism from last week’s post, I’ll be covering stories exemplifying the true nature of our situation — not the apocalyptic stifling of society caused by a pandemic, but a hopeful global solidarity in the face of adversity.
 
-__Heroes__ refers to the people working tirelessly to sustain this hope. They’re representing what humanity can and should be like. It’s easy to swipe left on society as we read headlines about the folks fighting over the last pack of toilet paper, or trolls hijacking online classes on Zoom, but this is not who we are as a community. This type of news is news because it stands out amidst the countless efforts being done by the heroes in hospitals, the volunteers collecting food donations, and the everyday citizens doing their part by self-isolating.
+__Heroes__ refers to the people working tirelessly to sustain this hope. They’re representing what humanity can and should be like. It’s easy to swipe left on society as we read headlines about the folks fighting over the last pack of toilet paper, or trolls hijacking online classes on Zoom, but this is not who we are as a community. This type of news is news because it stands out amidst the countless efforts being done by the doctors in hospitals, the volunteers collecting food donations, and the everyday citizens doing their part by self-isolating.
 
 It’s during hard times that you see what people are really like — and I want to share the stories of a few community efforts that are representing the best of us.
 
@@ -35,13 +35,13 @@ Italy’s musicians beg to differ. They’re the ones playing their pianos and v
 __Sources__: [Italians Find ‘a Moment of Joy in This Moment of Anxiety’](https://www.nytimes.com/2020/03/14/world/europe/italians-find-a-moment-of-joy-in-this-moment-of-anxiety.html), [Being our best selves during coronavirus](https://www.youtube.com/watch?v=xdw7WEMe9AI&t=157s)
 
 ## The Innovators
-Complacency is yet another victim of the coronavirus; fortunately, when complacency falls, the fires in the eyes of engineers, developers, and scientists of the world come alive.
+Complacency is yet another victim of the coronavirus; fortunately, when complacency dies, the fires in the eyes of engineers, developers, and scientists of the world come alive.
 
 From [3D printing ventilator valves in Brescia](https://www.medicaldevice-network.com/news/3d-printed-valves-covid-19-italy/) to [tracking the essential supplies of local grocery stores in Austin](https://cbsaustin.com/news/local/two-ut-students-launch-website-that-tracks-store-inventories), innovators of all ages are pulling out their metaphorical toolboxes and getting to work on creative solutions to the new, pandemic-related problems of our time.
 
 The United Nations has even called for [an open brief to all creators](https://www.talenthouse.com/i/united-nations-global-call-out-to-creatives-help-stop-the-spread-of-covid-19) to help the world through these troubling times by building something to encourage social distancing, stop the spread of misinformation, make donating more accessible, and more.
 
-## The YouTubers
+## The Influencers
 
 It seems the positivity train is picking up steam: celebrities with far more star power than I are amplifying the optimism of the masses. 
 
@@ -53,7 +53,7 @@ Jim Halpert gets it. He’s not preaching absurdities or spreading his own propa
     <iframe src="https://www.youtube.com/embed/F5pgG1M_h_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## The Applauders
+## The People
 
 The soldiers at the front lines are the health workers in hospitals, and despite their courage, diligence, and dexterity, the overwhelming impact of the virus is enough to impact the psychological underpinnings of any individual. 
 
