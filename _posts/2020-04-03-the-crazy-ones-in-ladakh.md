@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Crazy Ones in Ladakh"
+title: "The Crazy Ones in Ladakh (Part I)"
 description: "Currently being written. Check back on Apr 7!"
 thumb_image: "documentation/2020-04-03-the-crazy-ones-in-ladakh/thumb.jpeg"
 tags: [travels]
@@ -226,4 +226,4 @@ Once we got above 18,000 ft, a small clearing came into view. Soldiers were scat
 
 ---
 
-Due to the length of the experience, I’ve decided to separate this story into 2 parts. Check back __next Tuesday, Apr 13__ for the conclusion!
+Due to the length of the experience, I’ve decided to separate this story into 2 parts. Check back __next Tuesday, Apr 13__ for Part II!
