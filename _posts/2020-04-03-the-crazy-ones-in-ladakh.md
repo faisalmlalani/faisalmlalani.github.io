@@ -26,7 +26,7 @@ I really don’t want to get into the turmoil in this post, for in this story I 
 
 ---
 
-It’s difficult for me, even now, to articulate my reasons for wanting to go. Most might cite the desire to simply view the beauty of a literal heaven on Earth. Others might consider the incredible thrill of adventure, or something. Maybe my motivation was both, but thinking back on it, I feel as if a large part of much of my recklessness is self-validation. I don’t know what from or even what for, but the idea of me constantly putting myself in these situations makes /me/ cherish life. I live through my stories, for better or worse, and the more absurd they are, the more human I feel.
+It’s difficult for me, even now, to articulate my reasons for wanting to go. Most might cite the desire to simply view the beauty of a literal heaven on Earth. Others might consider the incredible thrill of adventure, or something. Maybe my motivation was both, but thinking back on it, I feel as if a large part of much of my recklessness is self-validation. I don’t know what from or even what for, but the idea of me constantly putting myself in these situations makes _me_ cherish life. I live through my stories, for better or worse, and the more absurd they are, the more human I feel.
 
 So where does a motorcycle come in? Well in my research about the region, I found that travelers navigate the mountains one of two ways: booking a car and local driver to take them around (what some may call _the safe way_), or by renting a motorcycle and hitting the mountain roads yourself (what some may call _the less safe way_).  You can guess which one appealed to me.
 
@@ -92,7 +92,7 @@ _Hmm… maybe only the crazy ones reach out._
 
 ---
 
-We had to get up early again the next morning, for we were to make our way to the center-point of our journey, Leh. Srinagar was a good 10 or so hours away by car, and the drive was extremely dangerous. The narrowness of the roads seemed to match the width of a Queen-sized bed, and there could be two vehicles going back and forth. Furthermore, drives to Leh were done through carpooling. In India, that means filling a car /to the brim/ with passengers. So with all that being said, imagine a completely packed 8-seater car on a literal road from hell driving through a landscape so beautiful it could be from heaven.
+We had to get up early again the next morning, for we were to make our way to the center-point of our journey, Leh. Srinagar was a good 10 or so hours away by car, and the drive was extremely dangerous. The narrowness of the roads seemed to match the width of a Queen-sized bed, and there could be two vehicles going back and forth. Furthermore, drives to Leh were done through carpooling. In India, that means filling a car _to the brim_ with passengers. So with all that being said, imagine a completely packed 8-seater car on a literal road from hell driving through a landscape so beautiful it could be from heaven.
 
 We had no choice, it was the cheapest option. Most tourists fly straight to Leh, but my boss denied my request for a raise, even when I citied “pretty cool trip to the Himalayas” on the request form. I personally don’t get why it was denied.
 
@@ -153,10 +153,77 @@ We rode out of the town smoothly enough, and made it to the directed entrance of
 {% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/7.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/7.jpeg" alt="" %}
 _The edge of Leh._
 
-The goal was to first make it to the Nubra Valley, a vast cradle of nature surrounded by the snowy mountains. Timu had mentioned to me that I /might/ be able to find a horse there, for it was lush and filled with roaming herders offering rides and other interaction with their livestock. Next up was the Pangong Lake, the literal liquid gem of Ladakh. It was the highlight of almost every tourist, and also the physical set of the conclusion to one of my favorite movies, /3 Idiots/. Finally, we would drive back to Leh and head back to Srinagar. All of this in 3 days.
+The goal was to first make it to the Nubra Valley, a vast cradle of nature surrounded by the snowy mountains. Timu had mentioned to me that I _might_ be able to find a horse there, for it was lush and filled with roaming herders offering rides and other interaction with their livestock. Next up was the Pangong Lake, the literal liquid gem of Ladakh. It was the highlight of almost every tourist, and also the physical set of the conclusion to one of my favorite movies, _3 Idiots_. Finally, we would drive back to Leh and head back to Srinagar. All of this in 3 days.
+
+_We can do this. We can do this. We can do this._
+
+I repeated this over, and over, and over again to Shubham. It was more for me than him, because if I started doubting myself, it was all over.
+
+As if to test my self-confidence, a streak of motorcyclists passed us by, adorning both professional gear and skill. One of them stopped to check on us, and was quickly baffled at how amateurish we looked.
+
+_You’re going to get yourselves killed. Go get some actual gear!_
+
+Nothing like the reminder of the threat of death from a stranger to get the endorphins running.
+
+I hopped back on the bike, and we took off up the mountain kings.
 
 ---
 
-...in progress...
+10 minutes.
+
+That’s how long it took before we noticed something was wrong.  Shubham slowed down a bit.
+
+_Do you smell that?_
+
+I didn’t, at first. I was too focused on the beauty of our surroundings.
+
+Shubham stopped the bike, and we hopped off to investigate. It didn’t take too long to figure it out — the extra canister of gas strapped to the side of the bike had ripped after being scraped continuously on the rugged road. We glanced at the trail behind us and found a long streak of petrol acting as footprints of our short journey thus far.
+
+I quickly unstrapped the canister and covered the hole with my scarf. Shubham searched his bag for something to cover the leak and found a dense piece of plastic, something we were given to hold a souvenir bought earlier.
+
+Phew. Crisis averted.
+
+…right?
+
+We jumped back on the bike and continued forth.
+
+For 10 more minutes.
+
+_It’s not working!_
+
+The smell had returned, and we hopped off to assess the problem once more. The plastic wasn’t working. The hole was too big, and we didn’t have anything to prevent further leakage. And if we risked more trials, who knows how much damage we were doing to the environment?
+
+After some deliberation, Shubham and I agreed to fill the bike up with as much petrol as we could, and leave the canister on the side of the road, with a sign for future (and smarter) travelers to take advantage of.
+
+At this point, we were both a little tuckered out. It had been only 20 minutes into our 3-day journey, and already we had faced a seemingly endless stream of struggle. But I was used to struggle, especially during travel. I was okay; Shubham was who I was worried about.
+
+_How are you holding up?_
+
+_Well, it’s like you said, right? This just means I’m a traveler now! And besides, look at this view!_
+
+Shubham extended his arms out and took it all in. I was elated, and followed.
+
+Seeing the waves upon waves of mountains stretch out behind a death machine adorned with our scrappy gear really put things in perspective.
+
+{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/8.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/8.jpeg" alt="" %}
+_Our horse._
+
+---
+
+The next hour passed without further complication. The weather got harsher and harsher as we drove on. The wind was heavy, the cold heavier.
+
+We rode in silence, and we rode uphill: 16,000 ft, 16,500 ft, 17,000 ft… when we reached 17,500 ft, Shubham started wondering if we had taken a wrong turn somewhere.
+
+Our only directions were scribbled on the sheet of paper Timu provided, and it mainly consisted of bullet points of places to stop.
+
+So I did what any good explorer would do, and pointed forward and said, /that way/.
+
+Once we got above 18,000 ft, a small clearing came into view. Soldiers were scattered around, along with a few other travelers huddled up together. On the left —
+
+{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/9.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/9.jpeg" alt="" %}
 
 {% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/thumb.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/thumb.jpeg" alt="" %}
+
+---
+
+Due to the length of the experience, I’ve decided to separate this story into 2 parts. Check back __next Tuesday, Apr 13__ for the conclusion!
