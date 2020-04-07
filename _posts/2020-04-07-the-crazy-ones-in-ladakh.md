@@ -116,8 +116,7 @@ Okay, so it wasn’t a roll-out-of-bed, ready, set go the next morning. It was m
 
 We had met with our travel advisor, *Timu, after arriving in Leh. He had dropped off our motorcycle, the Bullet. For those unaware --
 
-_Renowned for its idiosyncratic handling as much as for its reliability and durability, the Bullet was a bike that demanded a relationship with its rider. That relationship involved tolerance, patience, and understanding on the part of the rider. In exchange, the Bullet provided the kind of soaring, celestial, wind-weaving pleasure that birds must know, punctuated by not infrequent near-death experiences._
- - __Gregory David Roberts__
+_Renowned for its idiosyncratic handling as much as for its reliability and durability, the Bullet was a bike that demanded a relationship with its rider. That relationship involved tolerance, patience, and understanding on the part of the rider. In exchange, the Bullet provided the kind of soaring, celestial, wind-weaving pleasure that birds must know, punctuated by not infrequent near-death experiences._ - __Gregory David Roberts__
 
  I put all my faith in Shubham here, because there was no way in hell I could ride this thing. I had no experience whatsoever riding any sort of two-wheeled vehicle, much less this extravaganza of danger. Don’t get me wrong, I would have happily jumped on and rode it all the way to Kazakstan and back, but I’m also a bit insane. Shubham however, had the sanity and the experience, so he was the designated driver.
 
@@ -224,7 +223,7 @@ Once we got above 18,000 ft, a small clearing came into view. Soldiers were scat
 
 A cup of hot chocolate on the top of the world? That’s as legitimate as any story I’d ever heard. And I was keen on telling it one day.
 
-As soon as we hopped off the bike and the adrenaline died down a little, we felt it. The air was thin up here. So thin, that one of the soldiers approached us and warned that we could only stop here for about 20 minutes max. Otherwise, we found faint as a result of the thin air.
+As soon as we hopped off the bike and the adrenaline died down a little, we felt it. The air was thin up here. So thin, that one of the soldiers approached us and warned that we could only stop here for about 20 minutes max. Otherwise, we would faint as a result of the thin air.
 
 Fair point, I thought. But the hot chocolate was calling, and to me, that was more important than anything he’d said. It’s funny — when you’re freezing cold, dizzy to the point of faint, and on the edge of the world, the mind doesn’t focus on survival, at least immediately. At least not mine. Mine wanted some hot chocolate, and I’d be damned if I was going to let the wrath of the Himalayas prevent me from getting some.
 
