@@ -16,7 +16,7 @@ I was in India just a few months ago, finishing up my internship at Microsoft Re
 
 I had already threw myself in all sorts of exciting experiences during my time in India: by the time I was contemplating my lack of motorcycle-driving capability, I had visited the lively little village of Armori, ventured into the famous Pench Jungle Camp north of Nagpur, and explored the ancient ruins scattered throughout Hampi. This next adventure was to be different — for the past year or so, I had two dreams in mind: ride a camel in the Sahara desert, and ride a horse in the Himalayas. 
 
-The former — riding a camel in the Sahara — seemed far off and undo-able at the time, especially with the way I was spending my money on all these other excursions. That probably wouldn’t happen anytime soon.
+The former — riding a camel in the Sahara — seemed far off and undo-able at the time, especially with the way I was spending my money on all these other excursions. [That probably wouldn’t happen anytime soon](https://www.herestolifeproject.com/posts/the-terrible-jokes-of-the-sahara-desert).
 
 The latter, however, was still very much possible, and why shouldn’t it be? I’d been to the Himalayas before, just two years ago prior when I was living in Nepal. So I knew I was capable of withstanding the intensity of the environment. Furthermore, I was on the other side of the mountain giants this time, and it was unique enough to warrant paying for another trip down there.
 
