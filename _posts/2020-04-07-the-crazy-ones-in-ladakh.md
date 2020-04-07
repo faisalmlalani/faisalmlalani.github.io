@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Crazy Ones in Ladakh (Part I)"
-description: "Currently being written. Check back on Apr 7!"
-thumb_image: "documentation/2020-04-03-the-crazy-ones-in-ladakh/thumb.jpeg"
+description: "Part I of my motorcycle trip through Leh-Ladakh."
+thumb_image: "documentation/2020-04-07-the-crazy-ones-in-ladakh/thumb.jpeg"
 tags: [travels]
 author: faisal_lalani
 food_for_heart: false
@@ -64,7 +64,7 @@ And so we went. Shubham and I followed Karim to his car. Karim kindly narrated f
 
 And then finally, we reached Dal Lake.
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/1.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/1.jpeg" alt="" %}
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/1.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/1.jpeg" alt="" %}
 
 It was _breathtaking_. I felt as if I was staring at the most beautiful painting I’d ever seen, with the jagged hills making up the background of the canvas and the lively locals and bustling river vendors making up the subject. But most impressive was how colorful it all was; I felt as if I was thrown into a 1992 Bollywood classic.
 
@@ -72,13 +72,13 @@ Karim rowed Shubham and I to his houseboat, the Zambia. It was larger than I exp
 
 After some not-so-quick rest, Karim took us around the city to explore. Soldiers were sprinkled throughout the city, providing us with a constant reminder of the entropy. Our tour of temples and trinkets aided in that effort —
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/2.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/2.jpeg" alt="" %}
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/2.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/2.jpeg" alt="" %}
 
 Even the end of our day had metaphorical alarm bells about the state of things - we had dinner had _Winterfell_ Cafe. Y’know. Remember the North.
 
 Karim promised Shubham and I that we could go for a sunset boat ride on Dal Lake after dinner. Our boat was slim, but it fit the both of us comfortably enough, and we spent the night navigating the waters of one of the most heavenly places in the region, famously and appropriately called Heaven on Earth.
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/3.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/3.jpeg" alt="" %}
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/3.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/3.jpeg" alt="" %}
 
 Salesmen are probably the only vocation in which persistence reeks instead of blossoms, and in India doubly so. Dal Lake, however, seemed to be the exception: the Kashmiri vendors were content with the first _no_.
 
@@ -108,7 +108,7 @@ One of them, a local government worker, laughed and told me that I wouldn’t be
 
 When we finally made it to Leh, it was nightfall. The next morning we were to head off on our main adventure — the 3-day motorcycle ride through Ladakh. The excitement was our momentum — we were here, finally here!
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/4.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/4.jpeg" alt="" %}
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/4.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/4.jpeg" alt="" %}
 
 ---
 
@@ -123,7 +123,7 @@ _Renowned for its idiosyncratic handling as much as for its reliability and dura
 
 Our travel directions were scribbled on a single sheet of paper. We would have no cell service for most of our ride, and so we had to rely on old-fashioned Dora-the-Explorer action to navigate these parts. Timu had warned us how difficult the route was, especially for non-professionals, but what does he know? He’s only a 20-year veteran manager of a tourist agency in the Himalayas. We were fine, I was sure of it. Shubham, I’m not so sure. However, he was geared up and rearing to go, and I was bursting with pride for my friend.
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/5.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/5.jpeg" alt="" %}
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/5.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/5.jpeg" alt="" %}
 _Photo taken the morning of our endeavor. Alternate title: photo taken moments before disaster._
 
 I grabbed my helmet and put on my bag.
@@ -140,7 +140,7 @@ As Shubham pulled out of the hotel gates, the staff waved goodbye to us. I was r
 
 And then immediately, we crashed.
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/6.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/6.jpeg" alt="" %}
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/6.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/6.jpeg" alt="" %}
 
 We had hit an elevated platform on the narrow alleyway. It was hard to discern the obstruction, and we may have also overestimated the ease of navigating an alleyway in the city. We weren’t even in the mountains yet, and we already hit our first roadblock. Luckily, the Bullet was undamaged; we had rented it from Timu, and any scratches or damaged parts would cost us a fortune.
 
@@ -150,7 +150,7 @@ Fortunately, our morale was undamaged. I knew Shubham had a strong character, bu
 
 We rode out of the town smoothly enough, and made it to the directed entrance of the motorcycle route through the mountains. Shubham pulled up the bike right next to the edge of a small temple overlooking the city of Leh, and we reiterated our plan.
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/7.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/7.jpeg" alt="" %}
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/7.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/7.jpeg" alt="" %}
 _The edge of Leh._
 
 The goal was to first make it to the Nubra Valley, a vast cradle of nature surrounded by the snowy mountains. Timu had mentioned to me that I _might_ be able to find a horse there, for it was lush and filled with roaming herders offering rides and other interaction with their livestock. Next up was the Pangong Lake, the literal liquid gem of Ladakh. It was the highlight of almost every tourist, and also the physical set of the conclusion to one of my favorite movies, _3 Idiots_. Finally, we would drive back to Leh and head back to Srinagar. All of this in 3 days.
@@ -205,7 +205,7 @@ Shubham extended his arms out and took it all in. I was elated, and followed.
 
 Seeing the waves upon waves of mountains stretch out behind a death machine adorned with our scrappy gear really put things in perspective.
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/8.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/8.jpeg" alt="" %}
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/8.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/8.jpeg" alt="" %}
 _Our horse._
 
 ---
@@ -216,13 +216,63 @@ We rode in silence, and we rode uphill: 16,000 ft, 16,500 ft, 17,000 ft… when 
 
 Our only directions were scribbled on the sheet of paper Timu provided, and it mainly consisted of bullet points of places to stop.
 
-So I did what any good explorer would do, and pointed forward and said, /that way/.
+So I did what any good explorer would do, and pointed forward and said, _that way_.
 
 Once we got above 18,000 ft, a small clearing came into view. Soldiers were scattered around, along with a few other travelers huddled up together. On the left —
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/9.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/9.jpeg" alt="" %}
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/9.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/9.jpeg" alt="" %}
 
-{% include post-image.html path="documentation/2020-04-03-the-crazy-ones-in-ladakh/thumb.jpeg" path-detail="documentation/2020-04-03-the-crazy-ones-in-ladakh/thumb.jpeg" alt="" %}
+A cup of hot chocolate on the top of the world? That’s as legitimate as any story I’d ever heard. And I was keen on telling it one day.
+
+As soon as we hopped off the bike and the adrenaline died down a little, we felt it. The air was thin up here. So thin, that one of the soldiers approached us and warned that we could only stop here for about 20 minutes max. Otherwise, we found faint as a result of the thin air.
+
+Fair point, I thought. But the hot chocolate was calling, and to me, that was more important than anything he’d said. It’s funny — when you’re freezing cold, dizzy to the point of faint, and on the edge of the world, the mind doesn’t focus on survival, at least immediately. At least not mine. Mine wanted some hot chocolate, and I’d be damned if I was going to let the wrath of the Himalayas prevent me from getting some.
+
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/9.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/10.jpeg" alt="" %}
+
+We were in and out quickly. 10 minutes remained on the clock before the soldier claimed we would pass out.
+
+Snow had started to fall, and it was getting intense. So intense that it was difficult to see what was in front of us. We scurried toward our bike, until I saw a sign.
+
+It was a checkpoint marker, with writing that indicated our accomplishment at coming this far.
+
+_Let’s go take a picture real quick!_
+
+_Dude, we don’t have time, we gotta go!_
+
+There was 5 minutes left.
+
+_It’ll just be a second. When are we ever going to get the chance to do this again?_
+
+_Knowing you, probably next week._
+
+I waved him off and ran over. A couple of other motorcyclists were standing in front, taking a snapshot of their own aspirations come true.
+
+My hands were frozen solid at this point, even through my gloves. But this was important to me. I took off the gloves, grabbed my phone and got ready to take a selfie, until a voice behind us called out.
+
+_You actually made it!_
+
+It was the cyclist who stopped us in the beginning of our journey.
+
+_Come here, I’ll take it._
+
+He had a whimsical smile, as if he was amused at the fact that two idiots defied all odds and rode one of the world’s most dangerous motorcycles to the top of the Himalayas. He carried that smile all the way up to the point where he took our photo.
+
+Then, as if it was his role to designate warnings to us, he said:
+
+_Road’s going to be closed! Snow is too much. You probably need to turn back. You’ve reached far enough._
+
+This couldn’t be far enough. Even though we were only a few hours into our multi-day journey, it felt like we had traveled through hell and back just to get here. We couldn’t just turn back now.
+
+He didn’t. The messenger of warnings went back to his troupe and they all hollered in jubilation. It was a celebratory whoop, one that told the soldiers, the other travelers, and the whole damn world that they were ready to go too far. Then, they drove forth.
+
+As we looked on to the spot they drove off from, the feeling of external despair came back. Internally, however, I was thinking about what Shubham said a couple nights ago, as we drifted on the surface of Dal Lake.
+
+_Maybe only the crazy ones reach out._
+
+We jumped back on the bike, and followed onward. To too far.
+
+{% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/thumb.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/thumb.jpeg" alt="" %}
 
 ---
 
