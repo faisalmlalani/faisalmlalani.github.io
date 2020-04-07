@@ -14,31 +14,31 @@ I don’t know how to ride a motorcycle. This was a slight hiccup in my grand pl
 
 I was in India just a few months ago, finishing up my internship at Microsoft Research. I was having one of the greatest times of my life, getting to do work I was passionate about, learning from the much smarter researchers around me, and, most importantly, having a really lovely time with my new friends and coworkers.
 
-I had already threw myself in all sorts of exciting experiences during my time in India: by the time I was contemplating my lack of motorcycle-driving capability, I had visited the lively little village of Armori, ventured into the famous Pench Jungle Camp north of Nagpur, and explored the ancient ruins scattered throughout Hampi. This next adventure was to be different — for the past year or so, I had two dreams in mind: ride a camel in the Sahara desert, and ride a horse in the Himalayas. 
+I had already thrown myself in all sorts of exciting experiences during my time in India: by the time I was contemplating my lack of motorcycle-driving capability, I had visited the lively little village of Armori, ventured into the famous Pench Jungle Camp north of Nagpur, and explored the ancient ruins scattered throughout Hampi. This next adventure was to be different — for the past year or so, I had two dreams in mind: ride a camel in the Sahara desert, and ride a horse in the Himalayas. 
 
 The former — riding a camel in the Sahara — seemed far off and undo-able at the time, especially with the way I was spending my money on all these other excursions. [That probably wouldn’t happen anytime soon](https://www.herestolifeproject.com/posts/the-terrible-jokes-of-the-sahara-desert).
 
-The latter, however, was still very much possible, and why shouldn’t it be? I’d been to the Himalayas before, just two years ago prior when I was living in Nepal. So I knew I was capable of withstanding the intensity of the environment. Furthermore, I was on the other side of the mountain giants this time, and it was unique enough to warrant paying for another trip down there.
+The latter, however, was still very much possible, and why shouldn’t it be? I’d been to the Himalayas before, just two years ago when I was living in Nepal. So I knew I was capable of withstanding the intensity of the environment. Furthermore, I was on the other side of the mountain giants this time, and it was unique enough to warrant paying for another trip down there.
 
-For those unaware, the Indian Himalayas, or Ladakh, is a kingdom of mountains that occupy a large part of Kashmir, the disputed territory located in the far north of the Indian subcontinent that’s been rife with human rights violations over the years. In my eyes, Kashmir is a land of contrast: its beauty lies in its mountainous frontiers and more importantly, in its people; but conflict, in its inherent habit of tarnishing beauty, has created an ugly corollary for the protesting locals.
+For those unaware, the Indian Himalayas, or Ladakh, is a kingdom of mountains that occupy a large part of Kashmir, the disputed territory located in the far north of the Indian subcontinent that’s been rife with human rights violations over the years. In my eyes, Kashmir is a land of contrast. Its beauty lies in its mountainous frontiers and more importantly, in its people. But conflict, in its inherent habit of tarnishing beauty, has created an ugly corollary for the protesting locals.
 
 I really don’t want to get into the turmoil in this post, for in this story I simply intend to write about two idiots on a motorcycle. I highly recommend interested readers to do a deeper dive themselves into the history of Ladakh, but for everyone else — continue forth.
 
 ---
 
-It’s difficult for me, even now, to articulate my reasons for wanting to go. Most might cite the desire to simply view the beauty of a literal heaven on Earth. Others might consider the incredible thrill of adventure, or something. Maybe my motivation was both, but thinking back on it, I feel as if a large part of much of my recklessness is self-validation. I don’t know what from or even what for, but the idea of me constantly putting myself in these situations makes _me_ cherish life. I live through my stories, for better or worse, and the more absurd they are, the more human I feel.
+It’s difficult for me, even now, to articulate my reasons for wanting to go. Most might cite the desire to simply view the beauty of a literal heaven on Earth. Others might consider the incredible thrill of adventure, or something. Maybe my motivation was both, but thinking back on it, I feel as if a large part of my recklessness is self-validation. I don’t know what from or even what for, but the idea of me constantly putting myself in these situations makes me cherish life. I live through my stories, for better or worse, and the more absurd they are, the more human I feel.
 
 So where does a motorcycle come in? Well in my research about the region, I found that travelers navigate the mountains one of two ways: booking a car and local driver to take them around (what some may call _the safe way_), or by renting a motorcycle and hitting the mountain roads yourself (what some may call _the less safe way_).  You can guess which one appealed to me.
 
 Now, back to the problem — I didn’t know how to ride a motorcycle. Luckily, I was in _India_, where every second you could hear the rumble, tumble, rattle, and roll of a two-wheeler breezing by your front gate. Unluckily, no one wanted to tag along on my semi-foolish endeavor. Except one person.
 
-Enter Shubham, one of my closest friends I had met during my time in India. He was pretty unexperienced in the art of travel, and so when he accepted my crazy offer, I was pleasantly surprised. I was also aware of my own recklessness and inclination for that recklessness to be realized, and as I planned our trip, I considered the limits of recklessness I could pursue without breaking Shubham.
+Enter Shubham, one of my closest friends I had met during my time in India. He was pretty inexperienced in the art of travel, and so when he accepted my crazy offer, I was pleasantly surprised. I was also aware of my own recklessness and inclination for that recklessness to be realized. As I planned our trip, I considered the limits I could pursue without breaking Shubham.
 
 Eh, I’ll just wing it, I thought.
 
 ---
 
-Stepping out of the airport in Srinagar (the summer capital of Kashmir), Shubham and I were exhausted. We had an extremely early morning flight, which is the core ingredient in the recipe for a bad start for travel in an unknown region. Unfortunately, I am a terrible cook, so that part of my plan did not pan out (okay, no more food puns).
+Stepping out of the airport in Srinagar (the summer capital of Kashmir), Shubham and I were exhausted. We had an extremely early morning flight, which is the core ingredient in the recipe for a bad start for travel in an unknown region. Unfortunately, I am a terrible cook, so that part of my plan did not _pan_ out (okay, no more food puns).
 
 We were to meet with *Karim, owner of the *Zambia houseboat. That’s right — I booked a BOAT to stay in during our time there. From what I’d heard, Srinagar was home to the famous Dal Lake, on top of which floats a thriving marketplace and the homes of ambitious locals welcoming tourists to spend their newly converted currencies on goods and shelter.
 
@@ -74,9 +74,9 @@ After some not-so-quick rest, Karim took us around the city to explore. Soldiers
 
 {% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/2.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/2.jpeg" alt="" %}
 
-Even the end of our day had metaphorical alarm bells about the state of things - we had dinner had _Winterfell_ Cafe. Y’know. Remember the North.
+Even the end of our day had metaphorical alarm bells about the state of things - we had dinner at _Winterfell_ Cafe. Y’know. Remember the North.
 
-Karim promised Shubham and I that we could go for a sunset boat ride on Dal Lake after dinner. Our boat was slim, but it fit the both of us comfortably enough, and we spent the night navigating the waters of one of the most heavenly places in the region, famously and appropriately called Heaven on Earth.
+Karim promised Shubham and I that we could go for a sunset boat ride on Dal Lake after dinner. Our boat was slim, but it fit the both of us comfortably enough. We spent the night navigating the waters of one of the most heavenly places in the region, famously and appropriately called Heaven on Earth.
 
 {% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/3.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/3.jpeg" alt="" %}
 
@@ -96,7 +96,7 @@ We had to get up early again the next morning, for we were to make our way to th
 
 We had no choice, it was the cheapest option. Most tourists fly straight to Leh, but my boss denied my request for a raise, even when I citied “pretty cool trip to the Himalayas” on the request form. I personally don’t get why it was denied.
 
-We chugged along the windy roads as we road up and down mountainous terrain, grasping one another’s arms as the car lurched this way and that. Shubham and I made some pretty good friends as we hugged our fellow passengers for dear life. They were all Kashmiri locals, and exhaled their character and their beauty with every breath.
+We chugged along the windy roads as we road up and down mountainous terrain, grasping one another’s arms as the car lurched this way and that. Shubham and I made some pretty good friends as we hugged our fellow passengers for dear life. They were all Kashmiri locals, and exhaled their character with every breath and gesture.
 
 I’m going to interject here and point out that Kashmiri people are _beautiful_. The color of their eyes is the color of the ice that encompasses the frontiers of their land. The first Kashmiri people I saw I thought, _Hm, there’s another few who won the genetic lottery._ Nope. THEY ALL WON.
 
@@ -104,7 +104,9 @@ Our drive was rough, but our fellow passengers made it delightful; they entertai
 
 _Where can I find a place to ride a horse? Also where can I find a horse?_
 
-One of them, a local government worker, laughed and told me that I wouldn’t be able to find one where we were going. The horses were all either privately owned or untamed. That was admittedly a huge blow — horses were a pretty big chunk in my plan to ride a horse in the Himalayas. I had the Himalayas right in front of me, now I needed those beautiful stallions.
+One of them, a local government worker, laughed and told me that I wouldn’t be able to find one where we were going. The horses were all either privately owned or untamed. 
+
+This hit me hard. It was admittedly a huge blow — horses were a pretty big chunk in my plan to ride a horse in the Himalayas. I had the Himalayas right in front of me, now I needed those beautiful stallions.
 
 When we finally made it to Leh, it was nightfall. The next morning we were to head off on our main adventure — the 3-day motorcycle ride through Ladakh. The excitement was our momentum — we were here, finally here!
 
@@ -145,7 +147,7 @@ We had hit an elevated platform on the narrow alleyway. It was hard to discern t
 
 A few local school kids noticed our ineptitude and watched gleefully as we tried to figure out how to get around the platform. A nearby storeowner decided to bestow pity upon us; with strength he seemed to pull from the will of God, he lifted the bike over the elevated platform and wished us on our merry way.
 
-Fortunately, our morale was undamaged. I knew Shubham had a strong character, but I won’t lie: I feared from then that he may succumb to discouragement if too many hiccups plagued our trip. This isn’t a statement about him; any inexperienced traveler can lose confidence in the adventure if it seems like the adventure is losing confidence in them.
+Fortunately, our morale was undamaged. I knew Shubham had a strong character, but I won’t lie: I feared from then that he may succumb to discouragement if too many hiccups plagued our trip. This isn’t a statement about him; any traveler can lose confidence in the adventure if it seems like the adventure is losing confidence in them.
 
 We rode out of the town smoothly enough, and made it to the directed entrance of the motorcycle route through the mountains. Shubham pulled up the bike right next to the edge of a small temple overlooking the city of Leh, and we reiterated our plan.
 
@@ -194,7 +196,7 @@ The smell had returned, and we hopped off to assess the problem once more. The p
 
 After some deliberation, Shubham and I agreed to fill the bike up with as much petrol as we could, and leave the canister on the side of the road, with a sign for future (and smarter) travelers to take advantage of.
 
-At this point, we were both a little tuckered out. It had been only 20 minutes into our 3-day journey, and already we had faced a seemingly endless stream of struggle. But I was used to struggle, especially during travel. I was okay; Shubham was who I was worried about.
+At this point, we were both a little tuckered out. It had been only 20 minutes into our 3-day journey, and already we had faced a seemingly endless stream of struggle. But I was used to struggle, especially during travel. I was okay; Shubham was who my concern was for. But again, he valiently proved I had nothing to worry about.
 
 _How are you holding up?_
 
@@ -272,6 +274,8 @@ _Maybe only the crazy ones reach out._
 We jumped back on the bike, and followed onward. To too far.
 
 {% include post-image.html path="documentation/2020-04-07-the-crazy-ones-in-ladakh/thumb.jpeg" path-detail="documentation/2020-04-07-the-crazy-ones-in-ladakh/thumb.jpeg" alt="" %}
+
+_*Names have been altered to hide identities._
 
 ---
 
