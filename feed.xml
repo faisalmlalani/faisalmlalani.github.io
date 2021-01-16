@@ -1,20 +1,26 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>Here's To Life</title>
+    <description></description>
+    <link>www.herestolifeproject.com</link>
+    <atom:link href="www.herestolifeproject.com/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>HOW TO BE EXCITED ABOUT THE WORLD</title>
+        <description>The best way to remain optimistic is to share stories. I’ll do my part through the Here's To Life project, and work to share the tales of the people out there who inspire me. Their stories are what get me excited about the world, and I hope they’ll do the same for you.</description>
+        <pubDate>Tue, 24 Mar 2020 00:00:00 -0500</pubDate>
+        <link>www.herestolifeproject.com/posts/how-to-be-excited-about-the-world</link>
+        <guid isPermaLink="true">www.herestolifeproject.com/posts/how-to-be-excited-about-the-world</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>The Terrible Jokes of the Sahara Desert</title>
+        <description>You will never be completely at home again, because part of your heart always will be elsewhere. That is the price you pay for the richness of loving and knowing people in more than one place.</description>
+        <pubDate>Mon, 23 Mar 2020 00:00:00 -0500</pubDate>
+        <link>www.herestolifeproject.com/posts/the-terrible-jokes-of-the-sahara-desert</link>
+        <guid isPermaLink="true">www.herestolifeproject.com/posts/the-terrible-jokes-of-the-sahara-desert</guid>
+      </item>
+    
   </channel>
 </rss>

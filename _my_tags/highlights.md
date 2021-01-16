@@ -1,4 +1,0 @@
----
-slug: highlights
-name: 💡Highlights
----

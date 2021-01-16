@@ -1,14 +1,19 @@
----
-layout: null
----
 [
-  {% for post in site.posts %}
+  
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tag | join: ', ' }}",
-      "url"      : "{{ site.url }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "HOW TO BE EXCITED ABOUT THE WORLD",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "www.herestolifeproject.com/posts/how-to-be-excited-about-the-world",
+      "date"     : "2020-03-24 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "The Terrible Jokes of the Sahara Desert",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "www.herestolifeproject.com/posts/the-terrible-jokes-of-the-sahara-desert",
+      "date"     : "2020-03-23 00:00:00 -0500"
+    } 
+  
 ]

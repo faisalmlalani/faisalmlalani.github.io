@@ -1,4 +1,0 @@
----
-slug: travels
-name: 🧳 Travels
----

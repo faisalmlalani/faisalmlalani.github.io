@@ -1,4 +1,0 @@
----
-slug: all
-name: All
----
